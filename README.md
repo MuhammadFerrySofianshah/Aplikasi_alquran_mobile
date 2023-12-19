@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![Daftar AKun](https://github.com/MuhammadFerrySofianshah/aplikasi_alquran_mobile/assets/113429157/8b5b3902-cbd1-4edb-bb87-221091abe0c2)
 
 This project is a starting point for a Flutter application.
 
